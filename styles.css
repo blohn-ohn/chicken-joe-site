@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffcc00;
+    padding: 20px;
+    font-size: 24px;
+}
+
+h2 {
+    color: #ff6600;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+video {
+    width: 80%;
+    transition: opacity 0.3s ease-in-out;
+}
+
+video:hover {
+    opacity: 0.8;
+}
+
+footer {
+    background-color: #ffcc00;
+    padding: 10px;
+    margin-top: 20px;
+}

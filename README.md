@@ -38,4 +38,3 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 ## 🤝 Contributions
 Feel free to fork the repo, submit pull requests, or suggest ideas!  
 📩 Contact: [blohnohn@gmail.com] | [https://github.com/blohn-ohn]
-```
